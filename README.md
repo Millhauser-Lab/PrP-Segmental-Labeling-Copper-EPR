@@ -6,4 +6,4 @@ The results from the AlphaFold 3 simulations are in the zip file titled “fold_
 
 Email glennm@ucsc.edu with questions or requests for additional data.
 
-Manuscript available at XXXXXXXXXX
+Manuscript available at https://www.biorxiv.org/content/10.1101/2025.05.01.651769v1
